@@ -1,5 +1,7 @@
 # Data Science Portfolio
 
+Welcome! This repository contains my **Data Science projects**, covering Python, SQL, Machine Learning, Statistics, and Data Visualization.  
+
 ## Projects
 1. [Week 1 – Python EDA (Netflix)](Week1_Python_EDA_Netflix/README.md)
 2. [Week 2 – SQL Queries (Chinook)](Week2_SQL_Chinook/README.md)
